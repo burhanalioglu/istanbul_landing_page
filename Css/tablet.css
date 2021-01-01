@@ -1,0 +1,29 @@
+.container {
+    
+    height: 85px;
+}
+
+.anasayfa {
+   font-size: 1rem;
+   min-width: 130px;
+   max-width: 170px;
+}
+.navbox {
+    margin: 0.2rem;
+    padding: 0.3rem;
+    font-size: 0.8rem;
+}
+
+.navbar {
+   
+    padding: 0.5rem;
+    height: 80px;   
+}
+
+.home img {
+    width: 30%
+}
+
+.gezi-turlari .tur-cesitleri {
+    padding-right: 1rem;
+}
